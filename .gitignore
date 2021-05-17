@@ -1,0 +1,5 @@
+com.apple.recovery.boot/
+.fseventsd/
+.Spotlight-V100/
+.Trash-1000/
+opencore-*.txt
